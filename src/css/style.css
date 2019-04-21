@@ -29,3 +29,22 @@ body {
 .o-100 {
     opacity: 100;
 }
+
+.kevinamrulloh {
+    color: white;
+}
+
+.kevinamrulloh:hover {
+    color: white!important;
+}
+
+a:hover {
+    text-decoration: none!important;
+}
+
+.img-spotify {
+    height: 60rem;
+    transform: rotate(45deg);
+    transform: translateX(-1000px);
+    z-index: -99;
+}
